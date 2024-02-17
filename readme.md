@@ -17,3 +17,7 @@ Modify Files
 - For ReactNavigation
   https://reactnavigation.org/docs/getting-started/
   Refer  https://m.youtube.com/watch?v=YACtCjNy6Cg&list=PLKWMD009Q4qTGuqXxRq51f8OoDaIoJ1yo&index=2&pp=iAQB
+- For Fonts
+  https://github.com/expo/google-fonts , https://directory-by-atiladev-com.netlify.app/
+example. npx expo install @expo-google-fonts/didact-gothic
+import {  } from '@expo-google-fonts/didact-gothic'
