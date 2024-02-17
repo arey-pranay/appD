@@ -7,9 +7,10 @@ npx expo start
 
 For NativeWInd
 https://www.nativewind.dev/quick-starts/expo
+NEVER Use npm i for ntivewind
 
-npm i nativewind
-npm i -D tailwindcss
+yarn add nativewind
+yarn add -dev tailwindcss
 npx tailwindcss init
 - Modify Files -
 
